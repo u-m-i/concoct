@@ -1,2 +1,2 @@
 # concoct
-Library for the Saturday and Abril themes
+Opinionated UI framework on Svelte for the Saturday and Abril themes
